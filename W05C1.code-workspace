@@ -42,6 +42,7 @@
 				},
 				"color": "yellow"
 			}
-		]
+		],
+		"liveServer.settings.port": 5501
 	}
 }
